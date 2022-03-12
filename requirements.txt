@@ -1,11 +1,3 @@
-Requirements
-
-1. nltk
-    - word_tokenize
-    - sent_tokenize
-    - stopwords
-    - FreqDist
-
-2. Pathlib - Path
-
-3. string - punctuation
+nltk
+Pathlib
+string
